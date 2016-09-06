@@ -8,3 +8,7 @@ mvn install:install-file -Dfile=lucene-queryparser-4.6.1.jar -DgroupId=org.apach
 （不同的jar包相对应替换对应部分）
 
 mvn install:install-file -Dfile=groovy-1.8.3.jar -DgroupId=org.codehaus.groovy -DartifactId=groovy -Dversion=1.8.3 -Dpackaging=jar
+
+
+//aliyun  maven resp
+http://maven.aliyun.com/nexus/?spm=0.0.0.0.inDNBj#welcome
