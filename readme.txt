@@ -58,8 +58,7 @@ mvn org.apache.maven.plugins:maven-archetype-plugin:2.2:create  -DgroupId=com.ch
       3）在构建时，在archetype:generate后加上 -DarchetypeCatalog=local参数。（IDE如eclipse和idea，都是可以在创建maven工程时设置构建参数的，这里不再截图说明了）
 解决，Have fun!再次尝试构建项目骨架，飞一般的感觉。
 //创建java工程
-mvn archetype:generate  -DarchetypeCatalog=local -DgroupId=com.yourhost.app -DartifactId=your-app -DarchetypeArtifactId=maven-archetype-quickstart -DinteractiveMode=false  
-
+mvn archetype:generate  -DarchetypeCatalog=local -DgroupId=com.yourhost.app -DartifactId=your-app -DarchetypeArtifactId=maven-archetype-quickstart -DinteractiveMode=false
 
 
 //创建web工程

@@ -1,0 +1,3 @@
+m2e.txtt文件的内容如下：path=E:/MavenProject/Maven2EclipsePlugin/m2e m2e-extras.txt文件的内
+容如下：path=E:/MavenProject/Maven2EclipsePlugin/m2e-extras zest.txt文件的内容如下：
+path=E:/MavenProject/Maven2EclipsePlugin/GEF-zest-3.7.1
